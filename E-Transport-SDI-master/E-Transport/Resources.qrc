@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/icons"/>
+    <qresource prefix="/new/Images">
+        <file>CargoOwner.png</file>
+        <file>Driver.png</file>
+        <file>Logo.png</file>
+        <file>Logo2.jpg</file>
+        <file>Logo3.png</file>
+        <file>Logo4.jpeg</file>
+        <file>Logo5.png</file>
+        <file>Transport-company.png</file>
+        <file>back-arrow.png</file>
+    </qresource>
+</RCC>
